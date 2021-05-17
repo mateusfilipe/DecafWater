@@ -22,7 +22,6 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
-    - UnityEngine.UI.VerticalLayoutGroup
   sceneClasses:
     Assets/Scenes/CoffeeScene.unity:
     - Class: 1
@@ -104,8 +103,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 114
       Script: {instanceID: 1520}
-    - Class: 114
-      Script: {instanceID: 1710}
     - Class: 114
       Script: {instanceID: 1846}
     - Class: 114
