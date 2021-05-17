@@ -207,7 +207,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1324857931}
-        m_TargetAssemblyTypeName: 
+        m_TargetAssemblyTypeName: CoffeeController, Assembly-CSharp
         m_MethodName: Drink
         m_Mode: 1
         m_Arguments:
