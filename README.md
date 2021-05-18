@@ -8,12 +8,12 @@
   <td>
    <h2>CoffeeScene</h2>
    <img src="https://github.com/mateusfilipe/DecafWater/blob/main/Assets/Images/tela1.jpg">
-   Primeira tela com o controle feito para a quantidade de café consumido por dia.
+   <i>Primeira tela com o controle feito para a quantidade de café consumido por dia.</i>
   </td>
   <td>
    <h2>WaterScene</h2>
    <img src="https://github.com/mateusfilipe/DecafWater/blob/main/Assets/Images/tela2.jpg">
-    Segunda tela com o controle feito para a quantidade de água consumido por dia.
+    <i>Segunda tela com o controle feito para a quantidade de água consumido por dia.</i>
   </td>
  </tr>
 </table>
