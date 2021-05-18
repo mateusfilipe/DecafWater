@@ -25,3 +25,7 @@
  * **Botão de Beber:** Maior botão presente na tela com a função de indicar e contabilizar a quantidade bebida por dia. Cada clique aumenta a quantidade de hoje.
  * **Botão de StartDay:** Começar o dia, fazendo com que a quantidade de hoje seja zerada e transferida para o campo de ontem, dando início a um novo ciclo.
  * **Botão de Troca de Modo:** Botão mais básico no momento, sua função é apenas alternar entre as telas de "Café" e "Água". 
+
+
+###### Obs.: A aplicação foi desenvolvida em Unity.
+
